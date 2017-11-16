@@ -174,7 +174,7 @@ app.layout = html.Div([
         html.Div([], className = 'one column'),
         html.Div([
             html.Div([
-                html.P('Date Range')
+                html.P('Country')
             ], className = 'row'),
             html.Div([
                 dcc.Dropdown(
